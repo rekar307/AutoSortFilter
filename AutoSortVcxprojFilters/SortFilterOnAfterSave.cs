@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio;
 using Microsoft.VisualStudio.Shell.Interop;
+using Microsoft.VisualStudio.Interop;
 using System;
 
 namespace AutoSortVcxprojFilters
